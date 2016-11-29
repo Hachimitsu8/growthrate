@@ -1,2 +1,0 @@
-# growthrate
-growthrate (GWAS)
